@@ -9,6 +9,7 @@ import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
 import thumbnailStaff from "../../static/images/feature-user.png"
 
+
 const IndexPage = () => (
     <Layout>
         <SEO title="New Internet Media"/>
