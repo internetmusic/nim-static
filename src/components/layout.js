@@ -35,13 +35,13 @@ const Layout = ({children}) => (
                         <div className={"col-5"}>
                             <div className={"widget__item"}>
                                 <div className={"logo"}>
-                                    <Link to="/" title={"HiStaff"}>
+                                    <Link to="/" title={"NIM Holding"}>
                                         <img alt={"Logo"} src={logo}/>
                                     </Link>
                                 </div>
 
                                 <div className={"about"}>
-                                    <p>A software that was created with the goal of solving the problems of Human Resources in small and medium-sized businesses.</p>
+                                    <p>More money, faster - to copyright holders....</p>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@ const Layout = ({children}) => (
                                         <li><Link to="/integrations/slack" title={"Integrations"}>Integrations</Link></li>
                                         <li><Link to="/about" title={"About Us"}>About</Link></li>
                                         <li><a href={"https://copyrightcoinsnews.com"}>Newsroom</a></li>
-                                        <li><a className={"links__special"} href={"https://copyrightcoinsnews.com/newsletter-signup/"} target={"_blank"} title={"Please sign up for our newsletters"}>Feedback</a></li>
+                                        <li><a className={"links__special"} href={"https://copyrightcoinsnews.com/newsletter-signup/"} target={"_blank"} title={"Please sign up for our newsletters"}>Newsletters</a></li>
                                     </ul>
                                 </ul>
                             </div>

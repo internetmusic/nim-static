@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import featureImage from "../../static/images/OneClick.gif";
-import thumbnailEvent from "../../static/images/CopyrightCoins.gif"
+import thumbnailEvent from "../../static/images/Avalanche-DeFi.gif"
 import thumbnailBoard from "../../static/images/feature-board.png"
 import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
@@ -35,10 +35,8 @@ const IndexPage = () => (
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
                                 <h2>NIM's CopyrightChain</h2>
-                                <p>The NIM roads are based upon the NIM CopyrightChains infrastructure that is a spoon (friendly fork) of the Avalanche blockchain.
-                                    There are many types of roads leading into the main road (CopyrightChains).
-                                    Each has its own purpose and  its own access control. Most of the roads are free to use, and some are out of necessity at a basic cost  in order to maintain optimal performance .
-                                    In addition, the NIM ecosystem includes independent elements that  consist of a grouping of services that interact with each other and the world around them to create an environment with very special features.
+                                <p>NIM CopyrightChain's infrastructure is a spoon (friendly fork) of the Avalanche blockchain.
+                                    CopyrightChain is designed to fully incentivise the creators to continuously produce high-quality content, keeping the whole ecosystem robust in the long term..
                                 </p>
                             </div>
                         </div>
