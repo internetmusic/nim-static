@@ -3,7 +3,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import featureImage from "../../static/images/OneClick.gif";
-import thumbnailEvent from "../../static/images/feature-event.png"
+import thumbnailEvent from "../../static/images/CopyrightCoins.gif"
 import thumbnailBoard from "../../static/images/feature-board.png"
 import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
