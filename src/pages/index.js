@@ -14,8 +14,11 @@ const IndexPage = () => (
         <SEO title="Make your Staff and Workspace Happy"/>
 
         <div className={"page-header home"}>
-            <h1>Welcome to New Internet Media </h1>
-            <p>NIM Holding<br/>and enjoyment of your staff and as a result, bring productivity to your workspace.</p>
+            <h1>The New Internet Media (NIM) ecosystem</h1>
+            <p>The NIM ecosystem is a group of services contained in a decentralised system.<br/>
+                All the services have been designed for specific purposes.<br/>
+                The essence of the ecosystem is to enable creative people everywhere to live upon their creativity.<br/>
+            </p>
             <img alt={"Dashboard"} src={featureImage}/>
         </div>
 
