@@ -85,7 +85,7 @@ const Layout = ({children}) => (
                     </div>
 
                     <div className={"copyright"}>
-                        <p>Copyright {new Date().getFullYear()}, {` `} <a href="https://histaff.io" title={"HiStaff"}>HiStaff</a>. All rights reserved.</p>
+                        <p>Copyright {new Date().getFullYear()}, {` `} <a href="https://newinternet.media" title={"HiStaff"}>NIM Holding </a>. All rights reserved.</p>
                     </div>
                 </div>
             </footer>
