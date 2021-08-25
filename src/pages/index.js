@@ -15,10 +15,8 @@ const IndexPage = () => (
 
         <div className={"page-header home"}>
             <h1>The New Internet Media (NIM) ecosystem</h1>
-            <p>The NIM ecosystem is a group of services contained in a decentralised system.<br/>
-                All the services have been designed for specific purposes.<br/>
-                The essence of the ecosystem is to enable creative people everywhere to live upon their creativity.<br/>
-            </p>
+            New Internet Media (NIM) leads an ecosystem of companies, aiming to democratize rights administration for digital content on the Internet.
+            Supported by up and running technology, we allow almost real-time payment of royalties to creators and owners of copyright.
             <img alt={"Dashboard"} src={featureImage}/>
         </div>
 
@@ -35,9 +33,8 @@ const IndexPage = () => (
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
                                 <h2>NIM's CopyrightChain</h2>
-                                <p>NIM CopyrightChain's infrastructure is a spoon (friendly fork) of the Avalanche blockchain.
-                                    CopyrightChain is designed to fully incentivise the creators to continuously produce high-quality content, keeping the whole ecosystem robust in the long term..
-                                </p>
+                                <p>NIM CopyrightChain infrastructure is a spoon (friendly fork) of the Avalanche blockchain.
+                                    CopyrightChain is designed to fully incentivise the creators to continuously produce high-quality content, keeping the whole ecosystem robust in the long term </p>
                             </div>
                         </div>
                     </div>
