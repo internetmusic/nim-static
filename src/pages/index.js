@@ -19,7 +19,9 @@ const IndexPage = () => (
                 All the services have been designed for specific purposes.<br/>
                 The essence of the ecosystem is to enable creative people everywhere to live upon their creativity.<br/>
             </p>
-            <img alt={"Dashboard"} src={featureImage}/>
+           //  <img alt={"Dashboard"} src={featureImage}/>
+            <img alt={"Dashboard"} src="https://vimeo.com/543209885"/>
+            https://vimeo.com/543209885
         </div>
 
         <div className={"container"}>
