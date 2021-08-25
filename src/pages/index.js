@@ -20,6 +20,7 @@ const IndexPage = () => (
                 Starting with music- by licensing the music to DSP’s (Digital Service Providers; e.g. Spotify, Deezer, Apple Music)
                 <br/>
             </p>
+
             <img alt={"Dashboard"} src={featureImage}/>
         </div>
 
