@@ -15,10 +15,9 @@ const IndexPage = () => (
 
         <div className={"page-header home"}>
             <h1>The New Internet Media (NIM) ecosystem</h1>
-            <p>New Internet Media (NIM) leads an ecosystem of companies, aiming to democratize rights administration for digital content on the Internet.
-                Supported by up and running technology, we allow almost real-time payment of royalties to creators and owners of copyright.
+            <p>New Internet Media (NIM) leads an ecosystem of companies, aiming to democratize rights administration for digital content on the Internet.<br/>
+                Supported by up and running technology, we allow almost real-time payment of royalties to creators and owners of copyright.<br/>
                 Starting with music- by licensing the music to DSP’s (Digital Service Providers; e.g. Spotify, Deezer, Apple Music)
-                <br/>
             </p>
 
             <img alt={"Dashboard"} src={featureImage}/>
