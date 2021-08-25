@@ -13,9 +13,7 @@ const Header = ({siteTitle}) => (
                     </Link>
                 </div>
 
-                <div className={"get-started"}>
-                    <a href={"https://app.histaff.io"}>Get Started</a>
-                </div>
+
             </div>
         </div>
     </header>
