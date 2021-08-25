@@ -4,14 +4,14 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import featureImage from "../../static/images/OneClick.gif";
 import thumbnailEvent from "../../static/images/Avalanche-DeFi.gif"
-import thumbnailBoard from "../../static/images/What-is-Avalanche_.gif"
+import thumbnailBoard from "../../static/images/avalanche3.png"
 import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
 import thumbnailStaff from "../../static/images/feature-user.png"
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Make your Staff and Workspace Happy"/>
+        <SEO title="New Internet Media"/>
 
         <div className={"page-header home"}>
             <h1>The New Internet Media (NIM) ecosystem</h1>
